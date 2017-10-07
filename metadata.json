@@ -1,0 +1,13 @@
+{
+  "name": "mrunkel-backup",
+  "version": "0.1.0",
+  "author": "mrunkel",
+  "summary": "Installs s3cmd and configures basic backup of the server",
+  "license": "Apache 2.0",
+  "source": "https://github.com/mrunkel/backup",
+  "project_page": "",
+  "issues_url": "https://github.com/mrunkel/backup/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
